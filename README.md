@@ -60,9 +60,12 @@ I build scalable, modern web applications and AI-powered solutions. I enjoy turn
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-16A34A?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge)
 
 **DevOps, Cloud & Tools**
 
